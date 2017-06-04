@@ -1,3 +1,3 @@
 # dawn
 Dawn
-# git add install.zip
+$ git add install.zip
